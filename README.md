@@ -1,4 +1,4 @@
 # voting-token
 
-##Design decisions
+## Design decisions
 - We will use truffle
